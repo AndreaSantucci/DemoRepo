@@ -1,2 +1,2 @@
 # DemoRepo
-this is a demo repository used just to test git commands2
+this is a demo repository used just to test git commands2e
